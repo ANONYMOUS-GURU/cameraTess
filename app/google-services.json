@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "203017520854",
+    "firebase_url": "https://firstproject-becfd.firebaseio.com",
+    "project_id": "firstproject-becfd",
+    "storage_bucket": "firstproject-becfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203017520854:android:f0d2f5ba1a768fe6422b77",
+        "android_client_info": {
+          "package_name": "com.example.cameratess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203017520854-u1j9k00mveuo0510q1uurrtbpsq2dr24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrXtIzxazmpSsywzJyZmgN-521IlRswc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203017520854-u1j9k00mveuo0510q1uurrtbpsq2dr24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203017520854:android:861f39ba1eac6ea3422b77",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203017520854-u1j9k00mveuo0510q1uurrtbpsq2dr24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrXtIzxazmpSsywzJyZmgN-521IlRswc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203017520854-u1j9k00mveuo0510q1uurrtbpsq2dr24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

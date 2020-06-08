@@ -1,0 +1,2 @@
+rootProject.name='cameraTess'
+include ':app'
